@@ -1,0 +1,1 @@
+fork된 repo clone > 본인이름.txt 파일을 commit > 작업내역 main repo에 merge request > 팀장 pull request
